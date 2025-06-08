@@ -144,6 +144,7 @@ h3.head2 {
 	margin-top: -2px;
 	position: relative;
 	top: 1px;
+	min-height: 42px;
 }
 
 /****Lists****/
